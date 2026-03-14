@@ -1,6 +1,6 @@
 <div align="center">
 
-# Savindu Eshan
+# Savindu John
 
 **Computer Science Undergraduate · Full-Stack Developer · Computer Vision Enthusiast**
 
