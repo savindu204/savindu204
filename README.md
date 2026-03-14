@@ -4,7 +4,7 @@
 
 **Computer Science Undergraduate · Full-Stack Developer · Computer Vision Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/savindu-john)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/savindu-john](https://www.linkedin.com/in/savindu-john-2363b62b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BK0Qid1VYSKy0e0LmaqUdag%3D%3D))
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/savindu204)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:savindueshan2004@gmail.com)
 [![Location](https://img.shields.io/badge/Sri_Lanka-0047AB?style=flat-square&logo=googlemaps&logoColor=white)](#)
