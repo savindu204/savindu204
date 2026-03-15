@@ -108,7 +108,7 @@ Currently open to **internship opportunities** where I can contribute to real pr
 
 <div align="center">
 
-*Open to internship opportunities — feel free to reach out.*
+*Open to internship opportunities | feel free to reach out.*
 
 [![Email](https://img.shields.io/badge/savindueshan2004@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:savindueshan2004@gmail.com)
 
